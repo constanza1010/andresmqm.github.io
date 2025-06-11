@@ -1,15 +1,16 @@
 body{
     margin: 0px;
-    background-color:darkgray
 }
 
 .perfil{
     text-align: center;
+    
 }
-section{
+.perfil-1{
     color: white;
-    padding: 1px;
+    padding: 30px;
     text-align: center;
+    background-color: darkgrey;
 }
 
 .github{
@@ -19,4 +20,16 @@ section{
     text-decoration: none;
     padding: 15px 30px;
     color: white;
+}
+.reseña{
+    text-align: center;
+    padding: 3%;
+    color: white;
+    background-color: black;
+}
+.educacion{
+    padding: 3%;
+}
+.edu{
+    text-align: center;
 }
