@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    background-color:darkgray
+}
+
+.perfil{
+    text-align: center;
+}
+section{
+    color: white;
+    padding: 1px;
+    text-align: center;
+}
+
+.github{
+    background-color: black;
+    border-radius: 50px;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 30px;
+    color: white;
+}
