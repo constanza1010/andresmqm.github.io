@@ -33,3 +33,32 @@ body{
 .edu{
     text-align: center;
 }
+.contacto{
+    padding: 1%;
+    background-color: darkgray;
+    color: white;
+}
+footer {
+  padding: 1%;
+  background-color:black;
+  color: white;
+  text-align: center;
+  font-size: 60%;
+
+}
+
+
+
+
+
+
+
+
+
+.porta{
+    text-align: center;
+    background-color: darkgray;
+}
+.ppp{
+    color: blue;
+}
