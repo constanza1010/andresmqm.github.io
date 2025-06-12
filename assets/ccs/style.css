@@ -68,3 +68,15 @@ footer {
   font-style: normal;
   font-variation-settings:"wdth" 100;
 }
+.contacto-porta{
+    padding: 1%;
+    background-color:rgb(0, 102, 255);
+    color: white;
+}
+.footer-porta {
+  padding: 1%;
+  background-color:rgb(196, 217, 255);
+  color: black;
+  text-align: center;
+  font-size: 60%;
+}
